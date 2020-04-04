@@ -32,5 +32,6 @@
   "NextDom/plugin-ftpd",
   "NextDom/plugin-eventghost",
   "NextDom/plugin-Ecowater",
-  "NextDom/plugin-SABnzbd"
+  "NextDom/plugin-SABnzbd",
+  "NextDom/plugin-SmartThings"
 ]
